@@ -1,7 +1,7 @@
 {
   "name": "ts911-lsm",
   "main": "./lib/ts911-lsm",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "คาสิโน บาคาร่า ออนไลน์",
   "keywords": [],
   "activationCommands": {
