@@ -1,10 +1,9 @@
 {
   "name": "ts911-lsm",
   "main": "./lib/ts911-lsm",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "คาสิโน บาคาร่า ออนไลน์",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "ts911-lsm:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
