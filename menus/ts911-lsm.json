@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle ts911-lsm",
+        "command": "ts911-lsm:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "ts911-lsm",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "ts911-lsm:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
